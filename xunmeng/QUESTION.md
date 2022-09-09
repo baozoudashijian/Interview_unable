@@ -12,3 +12,9 @@
 
 ## 生命周期
 从React实例创建、运行、到销毁期间，伴随着各种事件，这些事件统称为生命周期。
+
+## 判断数据类型
++ typeof
++ instanceof
++ constructor
++ Object.prototype.toString.call()
