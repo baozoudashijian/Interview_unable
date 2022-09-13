@@ -22,6 +22,7 @@ IE盒模型的宽高包括content和padding和border，标准盒模型不包括
 ## 作用域链
 变量取值到创建这个变量的函数作用域中取值，但是如果在当前作用域中没有查到值，就会到上级作用域去查，直到查到全局作用域，这个查找的过程形成的链条就叫做作用域链。
 
+
 ## typeof与instanceof的区别
 typeof返回变量的基本类型 instanceof返回的是一个boolean值
 
