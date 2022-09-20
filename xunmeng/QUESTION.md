@@ -45,6 +45,7 @@ useRef的其他作用（保存变量）
 [参考链接](https://www.cnblogs.com/yanjianjiang/p/13952739.html)
 
 ## postMessage
+使用postMessage可以帮助我们进行安全的跨源通信，基本原理是通过postMessage来发送跨文档信息，使用message来进行监听，当收到跨文档信息后，会触发message事件
 
 ## :key
 作用是：在diff算法中判断元素是最新创建的还是被移动来的，从而减少不必要的diff，也就是提高diff同级比较的效率
