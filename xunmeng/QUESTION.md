@@ -96,5 +96,5 @@ plugin：可以打包优化，资源管理和注入环境变量
 ## 判断数据类型
 + typeof
 + instanceof
-+ constructor
++ constructor（缺点无法判断undefined和null，而且constructor是可以修改的，会导致结果判断不准确）
 + Object.prototype.toString.call()
