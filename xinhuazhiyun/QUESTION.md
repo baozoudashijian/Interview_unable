@@ -26,3 +26,7 @@
         + 可以避开同源策略
         + 避免CSRF攻击
 [参考连接](https://blog.csdn.net/qq_43510829/article/details/119298522?spm=1001.2101.3001.6650.6&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-6-119298522-blog-126567276.pc_relevant_recovery_v2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-6-119298522-blog-126567276.pc_relevant_recovery_v2&utm_relevant_index=7)
+
+## 你在开发过程中有什么困难点
+
+## 你在开发过程中有什么亮点
